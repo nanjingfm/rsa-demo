@@ -32,7 +32,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println("明文")
+	fmt.Println("明文:")
 	fmt.Println(data)
 }
 
